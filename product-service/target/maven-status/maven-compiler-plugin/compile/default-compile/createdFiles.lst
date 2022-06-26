@@ -1,0 +1,10 @@
+tsgitsdev/com/productservice/dto/ProductRequest/ProductRequest.class
+tsgitsdev/com/productservice/controller/ProductController.class
+tsgitsdev/com/productservice/dto/ProductRequest/ProductResponse.class
+tsgitsdev/com/productservice/model/Product.class
+tsgitsdev/com/productservice/model/Product$ProductBuilder.class
+tsgitsdev/com/productservice/repository/ProductRepository.class
+tsgitsdev/com/productservice/ProductServiceApplication.class
+tsgitsdev/com/productservice/dto/ProductRequest/ProductRequest$ProductRequestBuilder.class
+tsgitsdev/com/productservice/dto/ProductRequest/ProductResponse$ProductResponseBuilder.class
+tsgitsdev/com/productservice/service/ProductService.class

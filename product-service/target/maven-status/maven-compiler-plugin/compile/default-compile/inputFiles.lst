@@ -1,0 +1,7 @@
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/model/Product.java
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/service/ProductService.java
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/dto/ProductRequest/ProductRequest.java
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/ProductServiceApplication.java
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/repository/ProductRepository.java
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/controller/ProductController.java
+/Users/Alvin/Downloads/microservices-cb/product-service/src/main/java/tsgitsdev/com/productservice/dto/ProductRequest/ProductResponse.java

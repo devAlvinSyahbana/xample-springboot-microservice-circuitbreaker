@@ -1,0 +1,10 @@
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/dto/OrderRequest.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/dto/OrderLineItemsDto.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/controller/OrderController.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/OrderServiceApplication.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/model/OrderLineItems.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/repository/OrderRepository.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/dto/OrderDto.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/model/Order.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/dto/InventoryResponse.java
+/Users/Alvin/Downloads/microservices-cb/order-service/src/main/java/tsgitdev/com/orderservice/service/OrderService.java

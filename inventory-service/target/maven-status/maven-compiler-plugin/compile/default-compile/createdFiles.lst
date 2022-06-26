@@ -1,0 +1,7 @@
+tsgitdev/com/inventoryservice/dto/InventoryResponse.class
+tsgitdev/com/inventoryservice/InventoryServiceApplication.class
+tsgitdev/com/inventoryservice/service/InventoryService.class
+tsgitdev/com/inventoryservice/model/Inventory.class
+tsgitdev/com/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+tsgitdev/com/inventoryservice/repository/InventoryRepository.class
+tsgitdev/com/inventoryservice/controller/InventoryController.class
