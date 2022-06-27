@@ -18,7 +18,7 @@ public class InventoryService {
     private final InventoryRepository inventoryRepository;
 
     @Transactional(readOnly = true)
-    @SneakyThrows // jangan tambahkan itu pada environment production
+    @SneakyThrows // jangan tambahkan pada environment production
     public List<InventoryResponse> isInStock(List<String> skuCode) {
         log.info("Wait Started");
         Thread.sleep(10000); // silumasi thread untuk mengecek fungsi time limiter
