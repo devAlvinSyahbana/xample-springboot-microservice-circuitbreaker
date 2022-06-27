@@ -20,7 +20,7 @@ public class InventoryService {
     @Transactional(readOnly = true)
     @SneakyThrows // jangan tambahkan pada environment production
     public List<InventoryResponse> isInStock(List<String> skuCode) {
-        Thread.sleep(10000); // silumasi thread untuk mengecek fungsi time limiter
+        Thread.sleep(10000); // silumasi thread untuk mengecek fungsi circuit breaker
         return inventoryRepository.findBySkuCodeIn(skuCode).stream()
                 .map(inventory ->
                         InventoryResponse.builder()
