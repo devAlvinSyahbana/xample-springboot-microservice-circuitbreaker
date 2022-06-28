@@ -28,6 +28,6 @@ public class OrderController {
     }
 
     public CompletableFuture<String> fallbackMethod(OrderRequest orderRequest, RuntimeException runtimeException){
-        return CompletableFuture.supplyAsync(() -> "Oops! (circuit breaker activated) something went wrong, please order after some time minute!");
+        return CompletableFuture.supplyAsync(() -> "Oops! something went wrong, please order after some time minute!");
     }
 }
