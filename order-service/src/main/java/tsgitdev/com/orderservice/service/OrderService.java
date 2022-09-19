@@ -58,9 +58,9 @@ public class OrderService {
 
             if (allProductsInStock) {
                 orderRepository.save(order);
-                return "Order Placed Successfully";
+                return "{ message: 'Order Placed Successfully!', code: 200 }";
             } else {
-                throw new IllegalArgumentException("Product is not in stock, please try again later");
+                throw new IllegalArgumentException("{ message: 'Product is not in stock, please try again later!', code: 204 }");
             }
         } finally {
             inventoryServiceLookup.end();
